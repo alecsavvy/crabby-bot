@@ -11,5 +11,5 @@ async fn main() {
         channel: "C029EV0P7EY".into(),
     };
 
-    slack.send_message("test").await;
+    slack.send_message("why u ask so many questions").await;
 }
